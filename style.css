@@ -1,0 +1,118 @@
+/*
+Theme Name : Ridwan Theme
+Theme URI : http://ridwanhasanah.com 
+Author : Ridwan Hasanah 
+Author URI : Ridwanhasanah.com
+Decription : tema untuk belajar 
+//https://www.youtube.com/watch?v=k-bdGYi0aJU&index=5&list=PLCZlgfAG0GXDVc72hxP8eHi8o11WLZD7g
+*/
+body{
+	margin: 50px auto;
+	width: 100%;
+	background: #f1f1ff;
+	color: 
+}
+header nav li a{
+   text-decoration: none;
+   color: #fff;
+   font-size: 14px;
+   padding-right: 20px; 
+   
+}
+main, aside{
+	float: left;
+}
+main{
+	padding: 20px;
+	width: 78%;
+}
+aside{
+	padding: 20px
+	width: 20%;
+	margin-top: 30px;
+	
+}
+.sub_judul{
+	font-weight: bold;
+	font-size: 25px;
+}
+#cari{
+	color: #fff;
+	margin-left: 20px;
+}
+
+.main-page-aja{
+	
+	margin: 0 auto;
+	background: #ccf;
+}
+.galeri{
+	background-color: #0909ff;
+	padding: 10px;
+}
+header h1{
+	margin-left: 20px;
+	margin-bottom: 0px;	
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+h1 a{
+	color: #fff;
+	padding: 5px;
+}
+header nav{
+	float: left;
+	width: 70%;
+	height: 20px;
+}
+.search_form{
+	float: right;
+	margin-top: 30px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+
+}
+
+header h2{
+	color: #fff;
+	margin-top: 0px;
+	margin-left: 20px;
+	border-bottom: 2px solid #000;
+}
+.clear{
+	clear: both;
+}
+li{
+	list-style: none;
+}
+nav ul{
+	padding: 0px;
+}
+nav li{
+	padding: 3px;
+	display: inline-block;
+	margin-left:0px;
+	font-size: 14px;
+}
+nav li:first-child{
+	margin-left: 20px;
+}
+header nav li{
+	font-size: 22px;
+	padding: 0.5px;
+}
+header{
+	background: #11252F;
+	border-bottom: 3px solid #000;
+}
+footer{
+	clear: both;
+	text-align: center;
+	border-top: 3px solid #000;
+}
+footer nav li a {
+	color: #000;
+	text-decoration: none;
+}
